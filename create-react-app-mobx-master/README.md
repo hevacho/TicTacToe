@@ -6,7 +6,7 @@ Para poder ejecutal el proyecto correctamente es necesario tener instalado la he
 Una vez clonado el repositorio desde el propio directorio ejecutaremos npm install para instalar todas las dependencias.
 Tras finalizar podremos ejecutar npm start y podremos ejectutar el juego .
 
-![]({{site.baseurl}}/https://github.com/hevacho/TicTacToe/blob/master/create-react-app-mobx-master/tictactoe.png)
+![](https://github.com/hevacho/TicTacToe/blob/master/create-react-app-mobx-master/tictactoe.png)
 
 
 
